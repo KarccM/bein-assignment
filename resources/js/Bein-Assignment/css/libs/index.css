@@ -1,0 +1,8 @@
+/* Font Config */
+@font-face {
+    font-family: 'odsis';
+    src: url('../../assets/font.ttf');
+}
+.app_font {
+    font-family: odsis, 'Courier New', Courier, monospace;;
+}
